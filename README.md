@@ -1,4 +1,4 @@
-[![MasterHead](http://www.google.com.tr/url?sa=i&url=https%3A%2F%2Fwww.telerik.com%2Fblogs%2Fhow-to-port-desktop-applications-to-net-core-3-0&psig=AOvVaw112OcS0_M_5xCjcEDfl50w&ust=1686941215839000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKj5vvH3xf8CFQAAAAAdAAAAABAF)
+<div align="center"><img src ="https://www.mshowto.org/images/articles/2019/12/justmock__net_770.png" widt =1300 height = 300><div>
 <h1 align="center">Hi 👋, I'm Kubilay Cem Karahan</h1>
 <h3 align="center">I'm a passionate developer of .NET Core, excited to explore innovations! ❤️</h3>
 
