@@ -1,5 +1,5 @@
 <div align="center"><img src ="https://www.mshowto.org/images/articles/2019/12/justmock__net_770.png" widt =1300 height = 300><div>
-<h1 align="center">Hi 👋, I'm Kubilay Cem Karahan</h1>
+<h1 align="center">Hi 👋, I'm Kubilay Cem</h1>
 <h3 align="center">I'm a passionate developer of .NET Core, excited to explore innovations! ❤️</h3>
 
 - 🌱 I’m currently learning **.NET Core to enhance my development skills and broaden my knowledge in the world of Microsoft technologies. I'm excited to explore its powerful features and leverage them in building robust and efficient applications. With every line of code I write, I'm gaining valuable experience and shaping myself into a skilled .NET Core developer. I look forward to applying my newfound knowledge to create innovative and impactful solutions.**
